@@ -34,7 +34,7 @@ require_once 'google-api-php-client/src/Google/autoload.php';// or wherever auto
 //Declare your Google Client ID, Google Client secret and Google redirect uri in  php variables
 $google_client_id = 'Your google client id here';
 $google_client_secret = 'Your google client secret here';
-$google_redirect_uri = 'http://www.example.com/response-callback.php';
+$google_redirect_uri = 'http://www.example.com/import-contacts-with-php.php';
 
 
 
